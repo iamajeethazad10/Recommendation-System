@@ -9,8 +9,10 @@ Netflix uses a recommendation system to present viewers with movie and show sugg
 
 ## **Types of recommendation Systems :**
   1.Collaborative filtering
+  
   2.Content-based filtering
+  
   3.Hybrid model
 
-## **This notebook will study following Question :
-Problem statement - Build a recommender system by using cosine simillarties score (book.csv)**
+## **This notebook will study following Question :**
+Problem statement - Build a recommender system by using cosine simillarties score (book.csv)
